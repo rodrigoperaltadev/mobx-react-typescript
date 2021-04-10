@@ -1,0 +1,26 @@
+#header {
+  display: flex;
+  background-color: #20232a;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.header-text-title {
+  color: #61dafb;
+}
+.header-text-subtitle {
+  color: #fff;
+}
+
+.header-text-title {
+  font-size: 25px;
+  margin-block: 2px;
+}
+
+.header-text-subtitle {
+  font-size: 15px;
+  margin-block: 2px;
+}

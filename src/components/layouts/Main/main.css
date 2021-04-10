@@ -1,7 +1,8 @@
-.App {
+.main-container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: darkgray;
-  height: 100vh;
+  width: 90%;
+  height: 80%;
+  margin-top: 20px;
 }
